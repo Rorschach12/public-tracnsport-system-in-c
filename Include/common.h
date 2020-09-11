@@ -1,6 +1,6 @@
 #ifndef _COMMON_H_
 #define _COMMON_H_
-
+//hahah
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
